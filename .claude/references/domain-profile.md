@@ -9,8 +9,8 @@ If no field is specified, agents default to applied economics.
 
 ## Field
 
-**Primary:** [e.g., Health Economics, Labor Economics, Development, IO, Public Finance]
-**Adjacent subfields:** [e.g., Labor, Public, IO — fields whose methods and journals overlap]
+**Primary:** [Sociology, Labour, Digital Plataforms, Work Process]
+**Adjacent subfields:** [Digital Plataforms, Plataform Work]
 
 ---
 
@@ -20,10 +20,10 @@ If no field is specified, agents default to applied economics.
 
 | Tier | Journals |
 |------|----------|
-| Top-5 | AER, Econometrica, JPE, QJE, REStud |
-| Top field | [e.g., JHE, RAND JE, AEJ:EP, AEJ:Applied] |
-| Strong field | [e.g., Health Affairs, AJHE, JPubE, JHR] |
-| Specialty | [e.g., Medical Care, Health Services Research] |
+| Top-5 | [Work, Employment and Society, Work and Occupations, Sociologie du Travail, Sociologia del Lavoro, American Journal of Sociology] |
+| Top field | [Capital & Class, Historical Materialism, TripleC, Global Labour Journal] |
+| Strong field | [Science & Society, New Left Review] |
+| Specialty | [Revista Latinoamericana de Estudios del Trabajo, Estudios del Trabajo, Trabajo y Sociedad] |
 
 ---
 
