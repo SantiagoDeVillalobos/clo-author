@@ -5,9 +5,9 @@
      Keep this file under ~150 lines — Claude loads it every session.
      See the guide at https://hugosantanna.github.io/clo-author/ for full documentation. -->
 
-**Project:** [YOUR PROJECT NAME]
-**Institution:** [YOUR INSTITUTION]
-**Field:** [YOUR FIELD — Economics by default. Can be adapted to Finance, Accounting, Marketing, etc.]
+**Project:** Las clases sociales y el trabajo en plataformas digitales
+**Institution:** Instituto de investigaciones Gino Germani — UBA
+**Field:** Sociología del trabajo
 **Branch:** main
 
 ---
